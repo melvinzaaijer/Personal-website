@@ -241,6 +241,9 @@ html[dir="rtl"] #footer {
   li:hover.social-icons-apple a, &.social-icons-colored li.social-icons-apple a {
     color: $appstore;
   }
+  li:hover.social-icons-issuu a, &.social-icons-colored li.social-icons-issuu a {
+    color: $issuu;
+  }
   &.social-icons-colored li {
     &:hover a {
       color: #999;

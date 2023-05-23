@@ -97,25 +97,29 @@ const Contact = ({ classicHeader, darkTheme }) => {
               <br />
               2643 HM Zuid-Holland
             </p>
+            <div>
             <a href="tel:+31630627692" className={"text-3 mb-1 " + (darkTheme ? "text-light" : "")}>
               <span className="text-primary text-4 me-2">
                 <i className="fas fa-phone" />
               </span>
               (06) 30 62 76 92
             </a>
+            </div>
             <a href="mailto:contact@melvinzaaijer.com" className={"text-3 mb-4 " + (darkTheme ? "text-light" : "")}>
               <span className="text-primary text-4 me-2">
                 <i className="fas fa-envelope" />
               </span>
               contact@melvinzaaijer.com
             </a>
+            <div className="mt-4">
             <h2
               className={
-                "mb-3 text-5 text-uppercase " + (darkTheme ? "text-white" : "")
+                "mb-1 text-5 text-uppercase " + (darkTheme ? "text-white" : "")
               }
-            >
+              >
               Follow Me
             </h2>
+            </div>
             <ul
               className={
                 "social-icons justify-content-center justify-content-md-start " +
