@@ -1,2 +1,6 @@
 node_modules/
 **/*.mp4
+
+# System files
+.DS_Store
+Thumbs.db
