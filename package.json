@@ -1,6 +1,5 @@
 {
   "name": "simone-personal-portfolio",
-  "homepage": "https://melvinzaaijer.github.io/Personal-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
