@@ -17,79 +17,74 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
 
   const projectsData = [
     {
-      title: "MACH Omnichannel Platform",
+      title: "MACH platform of the future",
       projectInfo:
         "A global leader in optical retailing required the replacement of the existing commerce platforms with a global headless Commerce and a dynamic CMS solution to rollout 40+ countries and 50+ brands.",
       client: "GrandVision",
-      technologies: "Headless, CommerceTools, Bloomreach, DTC, B2C",
+      technologies: "Headless (MACH), CommerceTools, Bloomreach, Node.JS, React.JS, DTC, B2C",
       industry: "Retail (Optical)",
-      date: "July 1, 2018",
+      date: "Aug 2018 - Apr 2023",
       url: {
-        name: "www.grandvision.com",
-        link: "https://grandvision.essilorluxottica.com/en",
+        name: "Pearle.nl (example brand)",
+        link: "https://www.pearle.nl/",
       },
       socialLinks: {
-        facebook: "https://www.facebook.com/pearleopticiensnederland",
-        youtube: "https://www.youtube.com/user/PearleOpticiens",
+        facebook: "https://www.facebook.com/grandvisionNV/",
+        twitter: "https://twitter.com/GrandVision",
         instagram: "https://www.instagram.com/pearleopticiensnl/",
-        blog: "https://blog.pearle.nl/",
       },
       thumbImage: "images/projects/project-1.jpg",
       sliderImages: [
-        "images/projects/project-1.jpg",
-        "images/projects/project-5.jpg",
+        "images/projects/project-1a.png"
       ],
       categories: [filters.IT],
     },
     {
-      title: "Project Title 2",
+      title: "Global ecommerce omni-channel",
       projectInfo:
-        "Quidam lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure. Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.",
-      client: "Ruby Clinton",
-      technologies: "iOS, HTML5, CSS3, PHP, Java",
-      industry: "Art & Design",
-      date: "July 16, 2019",
+        "Transforming online sales worldwide by implementing a leading edge eCommerce platform that allow customers to buy consumer goods through OminiChannel.",
+      client: "Samsung",
+      technologies: "SAP Hybris, AEM, Samsung Systems",
+      industry: "Retail",
+      date: "Jan 2017 - Mar 2018",
       url: {
-        name: "www.example.com",
-        link: "https://www.example.com",
+        name: "www.samsung.com",
+        link: "https://www.samsung.com/",
       },
       socialLinks: {
-        facebook: "http://www.facebook.com/",
-        twitter: "http://www.twitter.com/",
-        google: "http://www.google.com/",
-        instagram: "http://www.instagram.com/",
-        mail: "mailto:example@gmail.com",
+        facebook: "https://www.facebook.com/SamsungNederland/",
+        twitter: "https://twitter.com/SamsungNL/",
+        instagram: "https://www.instagram.com/samsungnederland/"
       },
-      thumbImage: "images/projects/project-2.jpg",
+      thumbImage: "images/projects/project-2a.gif",
       sliderImages: [
         "images/projects/project-2.jpg",
-        "images/projects/project-5.jpg",
+        "images/projects/project-2b.png",
+        "images/projects/project-2c.png"
       ],
       categories: [filters.DESIGN],
     },
     {
-      title: "Project Title 3",
+      title: "Personlized television experience",
       projectInfo:
-        "Quidam lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure. Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.",
-      client: "Ruby Clinton",
-      technologies: "iOS, HTML5, CSS3, PHP, Java",
-      industry: "Art & Design",
-      date: "July 16, 2019",
+        "Deliver a new video solution platform to realise a personalized television experience on multiple devices, anytime and anywhere independent on the internet provider.",
+      client: "KPN",
+      technologies: "AVS (Accenture Video Solutions)",
+      industry: "Landline and mobile telecommunications",
+      date: "Dec 2015 - Jan 2017",
       url: {
-        name: "www.example.com",
-        link: "https://www.example.com",
+        name: "tv.kpn.com",
+        link: "hhttps://tv.kpn.com/",
       },
       socialLinks: {
-        facebook: "http://www.facebook.com/",
-        twitter: "http://www.twitter.com/",
-        google: "http://www.google.com/",
-        instagram: "http://www.instagram.com/",
-        mail: "mailto:example@gmail.com",
+        facebook: "https://www.facebook.com/kpn/",
+        twitter: "https://twitter.com/KPN",
+        instagram: "https://www.instagram.com/kpn/"
       },
-      thumbImage: "images/projects/project-3.jpg",
+      thumbImage: "images/projects/project-3.png",
       sliderImages: [
-        "images/projects/project-3.jpg",
-        "images/projects/project-5.jpg",
+        "images/projects/project-3a.png",
+        "images/projects/project-3b.png",
       ],
       categories: [filters.PHOTOS],
     },
@@ -108,9 +103,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       socialLinks: {
         facebook: "http://www.facebook.com/",
         twitter: "http://www.twitter.com/",
-        google: "http://www.google.com/",
-        instagram: "http://www.instagram.com/",
-        mail: "mailto:example@gmail.com",
+        instagram: "http://www.instagram.com/"
       },
       thumbImage: "images/projects/project-4.jpg",
       sliderImages: [
@@ -134,9 +127,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       socialLinks: {
         facebook: "http://www.facebook.com/",
         twitter: "http://www.twitter.com/",
-        google: "http://www.google.com/",
-        instagram: "http://www.instagram.com/",
-        mail: "mailto:example@gmail.com",
+        instagram: "http://www.instagram.com/"
       },
       thumbImage: "images/projects/project-5.jpg",
       sliderImages: [
@@ -160,9 +151,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       socialLinks: {
         facebook: "http://www.facebook.com/",
         twitter: "http://www.twitter.com/",
-        google: "http://www.google.com/",
         instagram: "http://www.instagram.com/",
-        mail: "mailto:example@gmail.com",
       },
       thumbImage: "images/projects/project-6.jpg",
       sliderImages: [
@@ -186,9 +175,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       socialLinks: {
         facebook: "http://www.facebook.com/",
         twitter: "http://www.twitter.com/",
-        google: "http://www.google.com/",
         instagram: "http://www.instagram.com/",
-        mail: "mailto:example@gmail.com",
       },
       thumbImage: "images/projects/project-7.jpg",
       sliderImages: [
@@ -317,7 +304,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
                             <h5 className="text-white fw-400">
                               {project.title}
                             </h5>
-                            <span className="text-light">Category</span>
+                           {/* <span className="text-light">Category</span>*/}
                           </div>
                         </div>
                       </div>

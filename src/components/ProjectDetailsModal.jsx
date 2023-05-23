@@ -206,17 +206,6 @@ const ProjectDetailsModal = ({ darkTheme, projectDetails }) => {
                               <i className="fab fa-twitter" />
                             </a>
                           </li>
-                          <li className="social-icons-google">
-                            <a
-                              data-toggle="tooltip"
-                              href={projectDetails?.socialLinks?.google}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              data-original-title="Google"
-                            >
-                              <i className="fab fa-google" />
-                            </a>
-                          </li>
                           <li className="social-icons-instagram">
                             <a
                               data-toggle="tooltip"
@@ -226,17 +215,6 @@ const ProjectDetailsModal = ({ darkTheme, projectDetails }) => {
                               data-original-title="Instagram"
                             >
                               <i className="fab fa-instagram" />
-                            </a>
-                          </li>
-                          <li className="social-icons-email">
-                            <a
-                              data-toggle="tooltip"
-                              href={projectDetails?.socialLinks?.mail}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              data-original-title="Email"
-                            >
-                              <i className="fas fa-envelope" />
                             </a>
                           </li>
                         </ul>
