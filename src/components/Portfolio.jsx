@@ -10,37 +10,36 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
   const [selectedProjectDetails, setSelectedProjectDetails] = useState();
 
   const filters = {
-    DESIGN: "Desing",
-    BRAND: "Brand",
-    PHOTOS: "Photos",
+    IT: "IT",
+    DESIGN: "Design",
+    PERSONAL: "Personal",
   };
 
   const projectsData = [
     {
-      title: "Project Title 1",
+      title: "MACH Omnichannel Platform",
       projectInfo:
-        "Quidam lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure. Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.",
-      client: "Ruby Clinton",
-      technologies: "iOS, HTML5, CSS3, PHP, Java",
-      industry: "Art & Design",
-      date: "July 16, 2019",
+        "A global leader in optical retailing required the replacement of the existing commerce platforms with a global headless Commerce and a dynamic CMS solution to rollout 40+ countries and 50+ brands.",
+      client: "GrandVision",
+      technologies: "Headless, CommerceTools, Bloomreach, DTC, B2C",
+      industry: "Retail (Optical)",
+      date: "July 1, 2018",
       url: {
-        name: "www.example.com",
-        link: "https://www.example.com",
+        name: "www.grandvision.com",
+        link: "https://grandvision.essilorluxottica.com/en",
       },
       socialLinks: {
-        facebook: "http://www.facebook.com/",
-        twitter: "http://www.twitter.com/",
-        google: "http://www.google.com/",
-        instagram: "http://www.instagram.com/",
-        mail: "mailto:example@gmail.com",
+        facebook: "https://www.facebook.com/pearleopticiensnederland",
+        youtube: "https://www.youtube.com/user/PearleOpticiens",
+        instagram: "https://www.instagram.com/pearleopticiensnl/",
+        blog: "https://blog.pearle.nl/",
       },
       thumbImage: "images/projects/project-1.jpg",
       sliderImages: [
         "images/projects/project-1.jpg",
         "images/projects/project-5.jpg",
       ],
-      categories: [filters.BRAND],
+      categories: [filters.IT],
     },
     {
       title: "Project Title 2",
