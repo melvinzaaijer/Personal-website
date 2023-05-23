@@ -24,11 +24,15 @@
     "typewriter-effect": "^2.19.0",
     "web-vitals": "^2.1.4"
   },
+  "devDependencies": {
+    "rimraf": "5.0.1"
+  },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "npm run clean && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "clean": "rimraf build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },

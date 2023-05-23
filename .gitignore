@@ -1,6 +1,9 @@
 node_modules/
 **/*.mp4
 
+# Build output
+build/
+
 # System files
 .DS_Store
 Thumbs.db
