@@ -180,7 +180,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
                 (darkTheme ? "text-white" : "")
               }
             >
-              Send us a note
+              Send me a note
             </h2>
             <form
               className={darkTheme ? "form-dark" : ""}

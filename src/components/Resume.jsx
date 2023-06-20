@@ -40,7 +40,7 @@ const Resume = ({ classicHeader, darkTheme }) => {
       yearRange: "2017 - 2018",
       title: "Lead Business Analyst",
       place: "Samsung",
-      desc: "Transforming online sales worldwide by implementing a leading edge eCommerce platform that allow customers to buy consumer goods through OminiChannel.",
+      desc: "Provide strategic direction, mentorship, and guidance to a team of business analysts, ensuring effective requirements analysis, stakeholder management, and successful project delivery.",
     },
   ];
 

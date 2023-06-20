@@ -5,22 +5,22 @@ const Services = ({ classicHeader, darkTheme }) => {
   const services = [
     {
       name: "Product Owner",
-      desc: "Primary customer advocate and primary link to business and technology strategy maximizing the value delivered by the (Scrum) team by ensuring that the team acklog is aligned with customer and stakeholders needs.",
+      desc: "As a PO I drive product vision, backlog management, requirements gathering, sprint planning, acceptance, and collaboration between stakeholders and the development team, ensuring the successful delivery of customer-centric products that meet business objectives and user needs.",
       icon: "fa-solid fa-user-gear",
     },
     {
       name: "Project Manager",
-      desc: "Lead projects from requirements definition through deployment, identifying schedules, scopes, budget estimations, and project implementation plans, including risk mitigation.",
+      desc: "As a PM I lead projects from requirements definition through deployment, identifying schedules, scopes, budget estimations and project implementation plans, including risk mitigation.",
       icon: "fa-solid fa-chart-line",
     },
     {
       name: "Agile Software Delivery (Scrum (Master))",
-      desc: "Apply an iterative, flexible and collaborative approach to software delivery for teams that build software incrementally at the beginning of a project rather than shipping it all at once upon completion.",
+      desc: "As a Agile DM / SM I facilitate and coach to ensure that Scrum is effectively implemented. I guide the team in self-organization, remove impediments, and promote collaboration and continuous improvement. This is executed through the facilitation of ceremonies, manage the team's workflow, and foster an environment that encourages transparency, accountability, and delivery of value.",
       icon: "fa-solid fa-cubes-stacked",
     },
     {
       name: "Business Analyst",
-      desc: "Identify business areas that can be improved to increase efficiency and strengthen business processes. Work closely with others throughout the business hierarchy to communicate their findings and help implement changes.",
+      desc: "As a BA I analyze business processes, gather requirements, and translates them into user stories and acceptance criteria. In addition, I facilitate the communication between stakeholders and the development team, ensuring achievement of the successful delivery of high-quality products that meet both business goals and customer needs.",
       icon: "fa-solid fa-magnifying-glass-chart",
     },
   ];
