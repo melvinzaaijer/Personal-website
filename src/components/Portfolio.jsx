@@ -21,7 +21,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       projectInfo:
         "A global leader in optical retailing required the replacement of the existing commerce platforms with a global headless Commerce and a dynamic CMS solution to rollout 40+ countries and 50+ brands.",
       client: "GrandVision",
-      technologies: "Headless (MACH), CommerceTools, Bloomreach, Node.JS, React.JS, DTC, B2C",
+      technologies: "MACH Architecture, CommerceTools, Bloomreach, React.Js/Next.Js, Node.Js, Bynder, Algolia, Adyen, Cloudflare, Boomi , DTC, B2C",
       industry: "Retail (Optical)",
       date: "Aug 2018 - Apr 2023",
       url: {
@@ -81,10 +81,10 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
         twitter: "https://twitter.com/KPN",
         instagram: "https://www.instagram.com/kpn/"
       },
-      thumbImage: "images/projects/project-3.png",
+      thumbImage: "images/projects/project-3.jpg",
       sliderImages: [
-        "images/projects/project-3a.png",
-        "images/projects/project-3b.png",
+        "images/projects/project-3a.jpg",
+        "images/projects/project-3b.jpg",
       ],
       categories: [filters.IT, filters.DESIGN],
     },

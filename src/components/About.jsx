@@ -33,7 +33,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                 "text-7 fw-600 mb-3 " + (darkTheme ? "text-white" : "")
               }
             >
-              I'm <span className="text-primary">Melvin Zaaijer,</span> an IT Consultant
+              I'm <span className="text-primary">Melvin Zaaijer,</span> experienced in technology consulting
             </h2>
             <p className={darkTheme ? "text-white-50" : ""}>
               As a Digital Solution Delivery Manager I help clients create end-to-end

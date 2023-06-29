@@ -4,14 +4,14 @@ const Services = ({ classicHeader, darkTheme }) => {
   // services details
   const services = [
     {
+      name: "Project Manager",
+      desc: "As a PM I lead projects from requirements definition through deployment, identifying schedules, scopes, budget estimations and project implementation plans, including risk mitigation. My areas of expertise are e-commerce, content and digital marketing.",
+      icon: "fa-solid fa-chart-line",
+    },
+    {
       name: "Product Owner",
       desc: "As a PO I drive product vision, backlog management, requirements gathering, sprint planning, acceptance, and collaboration between stakeholders and the development team, ensuring the successful delivery of customer-centric products that meet business objectives and user needs.",
       icon: "fa-solid fa-user-gear",
-    },
-    {
-      name: "Project Manager",
-      desc: "As a PM I lead projects from requirements definition through deployment, identifying schedules, scopes, budget estimations and project implementation plans, including risk mitigation.",
-      icon: "fa-solid fa-chart-line",
     },
     {
       name: "Agile Software Delivery (Scrum (Master))",

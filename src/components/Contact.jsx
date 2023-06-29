@@ -91,7 +91,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
               Address
             </h2>
             <p className={"text-3 mb-4 " + (darkTheme ? "text-light" : "")}>
-              Vroegelingerf,
+              Keijzershof,
               <br />
               Pijnacker
               <br />
@@ -102,7 +102,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
               <span className="text-primary text-4 me-2">
                 <i className="fas fa-phone" />
               </span>
-              (06) 30 62 76 92
+              (+31)6 30 62 76 92
             </a>
             </div>
             <a href="mailto:contact@melvinzaaijer.com" className={"text-3 mb-4 " + (darkTheme ? "text-light" : "")}>
@@ -215,7 +215,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
                     className="form-control"
                     rows={5}
                     required
-                    placeholder="Tell us more about your needs........"
+                    placeholder="Tell me more about your needs........"
                     defaultValue={""}
                   />
                 </div>

@@ -28,11 +28,11 @@ const Resume = ({ classicHeader, darkTheme }) => {
       yearRange: "2021-2023",
       title: "Delivery Lead (Project Manager)",
       place: "GrandVision",
-      desc: "Responsible for managing the delivery of complex technology projects for clients. They oversee the project team and ensure that the project is completed on time, within budget, and to the client's satisfaction. This includes working closely with the client to understand their needs and provide regular updates on project status.",
+      desc: "Responsible for managing the delivery of complex technology projects for clients. I led multiple project teams and ensure that the project is completed on time, within budget, and to the client's satisfaction. This includes working closely with the stakeholders to understand their needs and provide regular updates on project status.",
     },
     {
-      yearRange: "2018 - 2023",
-      title: "Scrum Master and Product Owner",
+      yearRange: "2018 - 2021",
+      title: "Product Owner and Scrum Master",
       place: "GrandVision",
       desc: "As a PO I was responsible for defining and prioritizing the product backlog, ensuring that the team is building the right product for the customer within the My Account domain. In my Scrum Master role, I was ensuring that 2 teams are following the Agile principles and removing any obstacles that may hinder their progress in a large program with 7 scrum teams.",
     },
@@ -51,7 +51,7 @@ const Resume = ({ classicHeader, darkTheme }) => {
     },
     {
       name: "Agile / Scrum (Including SAFe)",
-      percent: 90,
+      percent: 95,
     },
     {
       name: "Stakeholder Management",
@@ -59,11 +59,11 @@ const Resume = ({ classicHeader, darkTheme }) => {
     },
     {
       name: "Crytical Thinking and Problem Solving",
-      percent: 95,
+      percent: 85,
     },
     {
       name: "Customer Experience",
-      percent: 80,
+      percent: 90,
     },
     {
       name: "MACH, Hybrid and Monolithic Architectures",
@@ -75,7 +75,7 @@ const Resume = ({ classicHeader, darkTheme }) => {
     },
     {
       name: "Communication",
-      percent: 90,
+      percent: 95,
     },
   ];
 
