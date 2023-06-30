@@ -36,11 +36,11 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
               I'm <span className="text-primary">Melvin Zaaijer,</span> experienced in technology consulting
             </h2>
             <p className={darkTheme ? "text-white-50" : ""}>
-              As a Digital Solution Delivery Manager I help clients create end-to-end
-              solutions to achieve the best customer experiences, across the entire
-              customer journey. Within a multidisiplinary team, I advice on digital
-              strategy, design digital experiences and deliver digital commerce,
-              content and marketing solutions.
+              and living in Pijnacker in the Netherlands with my wife and our son. 
+              As a Digital Solution Delivery Manager I help clients create end-to-end solutions 
+              to achieve the best customer experiences, across the entire customer journey. 
+              Within a multidisiplinary team, I advice on digital strategy, design digital experiences 
+              and deliver digital commerce, content and marketing solutions.
             </p>
             <p className={darkTheme ? "text-white-50" : ""}>
               Over the last years, I worked for large companies creating new TV 

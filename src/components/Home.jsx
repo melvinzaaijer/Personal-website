@@ -35,9 +35,9 @@ const Home = ({ classicHeader, darkTheme, handleNavClick }) => {
                     options={{
                       strings: [
                         "I'm Melvin Zaaijer",
-                        "I'm a Product Owner",
                         "I'm a Project Manager",
-                        "I'm a Scrum Master"
+                        "I'm a Digitial Teamlead",
+                        "I'm a IT Consultant"
                       ],
                       autoStart: true,
                       loop: true,
