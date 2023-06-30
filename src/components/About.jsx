@@ -1,5 +1,5 @@
 import React from "react";
-import resumeFile from "../documents/resume.pdf";
+import resumeFile from "../documents/Resume Melvin Zaaijer.pdf";
 const AboutUs = ({ classicHeader, darkTheme }) => {
   return (
     <section id="about" className={"section " + (darkTheme ? "bg-dark-1" : "")}>
@@ -40,7 +40,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
               As a Digital Solution Delivery Manager I help clients create end-to-end solutions 
               to achieve the best customer experiences, across the entire customer journey. 
               Within a multidisiplinary team, I advice on digital strategy, design digital experiences 
-              and deliver digital commerce, content and marketing solutions.
+              and deliver digital commerce, content and marketing solutions...
             </p>
             <p className={darkTheme ? "text-white-50" : ""}>
               Over the last years, I worked for large companies creating new TV 
