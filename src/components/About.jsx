@@ -1,5 +1,5 @@
 import React from "react";
-import resumeFile from "../documents/Resume Melvin Zaaijer.pdf";
+import resumeFile from "../documents/resume_melvinzaaijer.pdf";
 const AboutUs = ({ classicHeader, darkTheme }) => {
   return (
     <section id="about" className={"section " + (darkTheme ? "bg-dark-1" : "")}>
