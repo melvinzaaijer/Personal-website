@@ -46,7 +46,7 @@ const TermsAndConditions = ({ darkTheme }) => {
               dummy text of the printing and typesetting industry.
             </p>
             <h5 className={"text-4 mt-4 " + (darkTheme ? "text-white" : "")}>
-              Part I – Information Simone collects and controls
+              Part I – Information Melvin collects and controls
             </h5>
             <p>
               Lorem Ipsum has been the industry's standard dummy text ever since
@@ -54,7 +54,7 @@ const TermsAndConditions = ({ darkTheme }) => {
               scrambled it to make a type specimen book.
             </p>
             <h5 className={"text-4 mt-4 " + (darkTheme ? "text-white" : "")}>
-              Part II – Information that Simone processes on your behalf
+              Part II – Information that Melvin processes on your behalf
             </h5>
             <p>
               Lorem Ipsum has been the industry's standard dummy text ever since
