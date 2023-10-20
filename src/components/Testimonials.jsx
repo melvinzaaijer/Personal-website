@@ -15,7 +15,7 @@ const Testimonials = ({ classicHeader, darkTheme }) => {
       name: "Ronald Kicken",
       position: "Director Growth & Product Innovation at Accenture Song",
       src: "images/testimonial/client-sm-2.jpg",
-      desc: "It was an even greater pleasure to have you on our team throughout this tremendous journey at GrandVision. I’ve seen you grow in your career and as a person, and I want to emphasize that the great spirit of the team is largely a result of your good spirit and enthusiasm. Thank you on behalf of the whole account for the past years!",
+      desc: "It was an even greater pleasure to have you on our team throughout this tremendous journey. I’ve seen you grow in your career and as a person, and I want to emphasize that the great spirit of the team is largely a result of your good spirit and enthusiasm. Thank you on behalf of the whole account for the past years!",
       rating: 5,
     },
     {
