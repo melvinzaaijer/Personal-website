@@ -34,7 +34,7 @@ const Resume = ({ classicHeader, darkTheme }) => {
       yearRange: "2018 - 2021",
       title: "Product Owner and Scrum Master",
       place: "GrandVision",
-      desc: "As a PO I was responsible for defining and prioritizing the product backlog, ensuring that the team is building the right product for the customer within the My Account domain. In my Scrum Master role, I was ensuring that 2 teams are following the Agile principles and removing any obstacles that may hinder their progress in a large program with 7 scrum teams.",
+      desc: "As a PO I was responsible for defining and prioritizing the product backlog, ensuring that the team is building the right product for the customer within the My Account domain. In my Scrum Master role, I was ensuring that 2 scrum teams are following the Agile principles, fostering self-organization, continuously improving and removing any obstacles that may hinder their progress in a large program with 7 scrum teams.",
     },
     {
       yearRange: "2017 - 2018",

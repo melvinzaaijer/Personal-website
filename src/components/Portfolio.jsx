@@ -67,7 +67,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
     {
       title: "Personlized television experience",
       projectInfo:
-        "Deliver a new video solution platform to realise a personalized television experience on multiple devices, anytime and anywhere independent on the internet provider.",
+        "Deliver a new video solution platform to realise a personalised television experience on multiple devices, anytime and anywhere independent on the internet provider.",
       client: "KPN",
       technologies: "AVS (Accenture Video Solutions)",
       industry: "Landline and mobile telecommunications",
@@ -91,7 +91,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
     {
       title: "Philips Intranet",
       projectInfo:
-        "Realize a fully integrated and seamless global Intranet experience for the 90K employees as part of the Digital Workspace transition. Effortless content creation and management. Personalized and relevant content. Easy to find content with advanced search; using tag system and predictive search. Increase employee engagement and knowledge sharing",
+        "Realize a fully integrated and seamless global Intranet experience for the 90K employees as part of the Digital Workspace transition. Effortless content creation and management. Personalised and relevant content. Easy to find content with advanced search; using tag system and predictive search. Increase employee engagement and knowledge sharing",
       client: "Philips",
       technologies: "Sharepoint, Microsoft, Salesforce, Socialcast/Yammer",
       industry: "Healthcare and Ligting",
