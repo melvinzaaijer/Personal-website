@@ -25,6 +25,12 @@ const Resume = ({ classicHeader, darkTheme }) => {
 
   const experienceDetails = [
     {
+      yearRange: "2023",
+      title: "Project Manager",
+      place: "dsm-firmenich",
+      desc: "A merger of two brands requires a CMS strategy to be combined and migrated in target architecture. I was responsible for overall project management by steering project (and client) teams towards sign-off, for which we determine a content migration approach based on assessment framework, migration plan & roadmap",
+    },
+    {
       yearRange: "2021-2023",
       title: "Delivery Lead (Project Manager)",
       place: "GrandVision",
