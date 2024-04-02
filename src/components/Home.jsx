@@ -37,7 +37,7 @@ const Home = ({ classicHeader, darkTheme, handleNavClick }) => {
                         "I'm Melvin Zaaijer",
                         "I'm a Project Manager",
                         "I'm a Product Owner",
-                        "I'm a Digital Lead"
+                        "I'm a Digital (Team)Lead"
                       ],
                       autoStart: true,
                       loop: true,
