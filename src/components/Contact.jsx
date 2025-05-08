@@ -91,11 +91,11 @@ const Contact = ({ classicHeader, darkTheme }) => {
               Address
             </h2>
             <p className={"text-3 mb-4 " + (darkTheme ? "text-light" : "")}>
-              Keijzershof,
+              Pijnacker,
               <br />
-              Pijnacker
+              Zuid-Holland
               <br />
-              2643 HM Zuid-Holland
+              Nederland
             </p>
             <div>
             <a href="tel:+31630627692" className={"text-3 mb-1 " + (darkTheme ? "text-light" : "")}>
